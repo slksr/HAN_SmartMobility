@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.7:1", "", "Users", "EARoot/EA7/EA38.htm", "188.png", "41", "0", "", "Custom diagram0","{D6AD03CD-30C4-49e4-9579-F976E0AD85D4}");
-tocTab[tocTab.length] = new Array("0.7:2", "", "«Person» Driver", "EARoot/EA7/EA41.htm", "4CEFB528-0_Person.png", "E98", "0", "", "Class0","{4386937C-A2B6-4a47-976A-0E1E992872AA}");
-tocTab[tocTab.length] = new Array("0.7:3", "", "«Person» HAN Administrator", "EARoot/EA7/EA42.htm", "4CEFB528-0_Person.png", "E97", "0", "", "Class0","{EC6F52EF-43CF-49dd-A099-75B14C546497}");
-tocTab[tocTab.length] = new Array("0.7:4", "", "«Person» HAN User", "EARoot/EA7/EA43.htm", "4CEFB528-0_Person.png", "E78", "0", "", "Class0","{7D1890DC-14EE-4ff9-9E6A-3A2E5C5E87C4}");
-tocTab[tocTab.length] = new Array("0.7:5", "", "«Person» Passenger", "EARoot/EA7/EA44.htm", "4CEFB528-0_Person.png", "E99", "0", "", "Class0","{F3CD42C9-7E60-470d-B84A-0BF4ABFBD0DF}");

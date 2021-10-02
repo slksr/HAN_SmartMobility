@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2:3", "", "«Container» Android App", "EARoot/EA2/EA14.htm", "4CEFB528-0_Container.png", "E92", "0", "", "Class0","{92C8E4E0-678E-4a5a-BA1A-14996245C838}");
-tocTab[tocTab.length] = new Array("0.2:4", "", "«Container» Dashboard Website", "EARoot/EA2/EA15.htm", "4CEFB528-0_Container....png", "E93", "0", "", "Class0","{6B03BE04-18E5-43ec-BBCA-8AEA3D6D55AF}");
-tocTab[tocTab.length] = new Array("0.2:5", "", "«Container» Smart Mobility Service", "EARoot/EA2/EA16.htm", "4CEFB528-0_Container....png", "E94", "0", "", "Class0","{B788418F-0D0C-4fb5-AFD7-7817A776F2DC}");
-tocTab[tocTab.length] = new Array("0.2:6", "", "«Container» SmartMobility Website", "EARoot/EA2/EA17.htm", "4CEFB528-0_Container.png", "E100", "0", "", "Class0","{FADECA15-E2C5-4114-AAD5-66A21FC616EC}");
-tocTab[tocTab.length] = new Array("0.2:1", "", "Smart Mobility Service", "EARoot/EA2/EA9.htm", "178.png", "48", "E94", "", "Component diagram0","{E692ED27-82FB-4ab7-A072-0B28EE577E53}");
-tocTab[tocTab.length] = new Array("0.2:2", "", "SmartMobility Website", "EARoot/EA2/EA11.htm", "178.png", "49", "E100", "", "Component diagram0","{99C978DE-9F35-42ef-91DC-1A3EB5D556A8}");

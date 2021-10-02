@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.5:1", "", "«System» Location and Maps System", "EARoot/EA5/EA31.htm", "5.png", "E86", "0", "", "Class0","{A931FAE9-6D73-49b6-A831-4F150675F6D5}");
-tocTab[tocTab.length] = new Array("0.5:2", "", "«System» Navigation System", "EARoot/EA5/EA32.htm", "5.png", "E87", "0", "", "Class0","{1AE1BB83-CFF1-48da-B8CE-38EF87B6F651}");
-tocTab[tocTab.length] = new Array("0.5:3", "", "«System» Public Schedule", "EARoot/EA5/EA33.htm", "5.png", "E85", "0", "", "Class0","{64794DE7-6A4E-476e-ACE1-1C9CEADB0500}");
-tocTab[tocTab.length] = new Array("0.5:4", "", "«System» Public Transport System", "EARoot/EA5/EA34.htm", "5.png", "E84", "0", "", "Class0","{4D192EAF-3B93-444f-905F-7B416406E74C}");
